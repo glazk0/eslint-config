@@ -6,7 +6,12 @@
   "files": [
     ".eslintrc.json"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glazk0/eslint-config.git"
+  },
   "author": "glazk0 <hi@glazk0.dev> (https://glazk0.dev)",
+  "homepage": "https://github.com/glazk0/eslint-config#readme",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
     "@typescript-eslint/parser": "^5.25.0",
